@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2024-06-20-i-love-blogging/",
+    "title": "I love blogging",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Usha Khalsa",
+        "url": {}
+      }
+    ],
+    "date": "2024-06-20",
+    "categories": [],
+    "contents": "\r\nWhy do I love blogging\r\nReason 1\r\nReason 2\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2024-06-21T00:01:49+10:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to My HDS Blog",
     "description": "Welcome to our new blog, My HDS Blog. We hope you enjoy \nreading what we have to say!",

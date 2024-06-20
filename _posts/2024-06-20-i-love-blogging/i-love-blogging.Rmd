@@ -1,0 +1,26 @@
+---
+title: "I love blogging"
+description: |
+  A short description of the post.
+author:
+  - name: Usha Khalsa
+date: 2024-06-20
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+## Why do I love blogging
+Reason 1
+Reason 2
+
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
